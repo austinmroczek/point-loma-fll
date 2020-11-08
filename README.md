@@ -35,5 +35,16 @@ Use the EV3 application to create or modify code for the robot.  Save the file w
 
 In GitHub Desktop, it should note that you have made changes to one or more files.  "Commit" those changes to your repository by adding a note about your changes and then clicking "Commit to master".
 
-Use GitHub Desktop to "push" the changes back to GitHub.  Now the changed files are in your repository on the GitHub server.
+Use GitHub Desktop to "push" the changes back to GitHub using the blue "push origin" button.  Now the changed files are in your repository on the GitHub server.
 
+## Share your code with the team
+
+With GitHub you recommend new code to a team by submitting a "pull request."  You are asking the team to pull your new code into the project.
+
+Go to your repository on GitHub at https://github.com/your_username/point-loma-fll.  Near the top of the page you should see a note that "this branch is 1 commit ahead".  Click on "pull request" just to the right of that.  Enter a note about the changes you made that is detailed enough for other team members to understand.
+
+Next Coach Austin will have to accept the changes into the main repository.
+
+## Updating the team code
+
+When other team members changes to the code are accepted by Coach Austin, you will need to "pull" the latest changes using GitHub Desktop.
