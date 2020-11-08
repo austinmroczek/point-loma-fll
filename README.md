@@ -1,31 +1,34 @@
 # point-loma-fll
+
 Point Loma First Lego League
 
 This project contains all of the documentation and code for the Point Loma First Lego League team #51013.
 
 ## Download software
 
-1. [EV3 Programming](https://www.microsoft.com/en-us/p/ev3-programming/9mv2s8n4f19t)
+1.EV3 Programming [PC](https://www.microsoft.com/en-us/p/ev3-programming/9mv2s8n4f19t) [Mac](https://education.lego.com/en-us/downloads/mindstorms-ev3/software)
 
 This is the software we used in 2019 to program the robot brick/controller.  
 
-2. [EV3 Classroom LEGO Education](https://www.microsoft.com/en-us/p/ev3-classroom-lego-education/9p8sjvzm63sz)
+2.EV3 Classroom LEGO Education [PC](https://www.microsoft.com/en-us/p/ev3-classroom-lego-education/9p8sjvzm63sz)
 
 This is optional, but provides additional tutorials and allows the girls to use Scratch to program, which they may be familiar with from school.
 
-3. [GitHub Desktop](https://desktop.github.com/)
+3.GitHub Desktop [PC](https://desktop.github.com/) [Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin)
 
 "git" is configuration control software.  We'll use it to share our code with each other.  GitHub Desktop will allow you to download the latest code and share your updates with the team.
 
+GitHub software is available for [ios](https://apps.apple.com/us/app/github/id1477376905) but may not have all of the features.
+
 ## Get the existing code
 
-1. Create a [GitHub account](https://github.com/join)
+1.Create a [GitHub account](https://github.com/join)
 
-2. "Fork" [the repository](https://github.com/austinmroczek/point-loma-fll).  
-   
+2."Fork" [the repository](https://github.com/austinmroczek/point-loma-fll).  
+
 Go to [the repository](https://github.com/austinmroczek/point-loma-fll).  Click "Fork" in the top right corner of the screen.  This makes your own copy of the main repository on the GitHub server, so you can make changes to the code independently from the rest of the team.
 
-3. "Clone" your repository.
+3."Clone" your repository.
 
 Open the GitHub Desktop application.  Go to File > Clone Repository and pick point-loma-fll.  This makes a copy of your repository on your computer.  Note the "local path" where the files are going to be stored.  
 
